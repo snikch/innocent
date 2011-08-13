@@ -17,9 +17,9 @@ Jeweler::Tasks.new do |gem|
   gem.name = "innocent"
   gem.homepage = "http://github.com/snikch/innocent"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "mal@sitepoint.com"
+  gem.summary = %Q{Proof of concept that Gems aren't safe}
+  gem.description = %Q{Proof of concept that Gems aren't safe}
+  gem.email = "mal@.co.nz"
   gem.authors = ["Mal Curtis"]
   # dependencies defined in Gemfile
 end
